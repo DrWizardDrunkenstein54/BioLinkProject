@@ -1,8 +1,8 @@
 import React from 'react';
 import MainProblem from './MainProblem';
 import ProblemStatistics from './ProblemStatistics';
-import EnvironmentProblem from './EnvironmentProblem';
-import EnvironmentStatistics from './EnvironmentStatistics';
+import EnvironmentProblem from './EnvironmentProblem.jsx';
+import EnvironmentStatistics from './EnvironmentStatistics.jsx';
 
 function ProblemStatement() {
     return (
