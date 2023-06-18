@@ -5,6 +5,7 @@ import Features from './Features';
 import ProblemStatement from './ProblemStatement';
 import ProposedSolutions from './ProposedSolutions';
 import YourContribution from './YourContribution';
+import Event from './Event';
 
 function BioLink() {
     return (
@@ -15,6 +16,7 @@ function BioLink() {
             <ProblemStatement />
             <ProposedSolutions />
             <YourContribution />
+            <Event />
 
         </div>
     );
