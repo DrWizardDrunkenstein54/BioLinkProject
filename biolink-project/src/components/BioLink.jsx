@@ -6,6 +6,7 @@ import ProblemStatement from './ProblemStatement';
 import ProposedSolutions from './ProposedSolutions';
 import YourContribution from './YourContribution';
 import Event from './Event';
+import Schedule from './Schedule';
 
 function BioLink() {
     return (
@@ -17,6 +18,7 @@ function BioLink() {
             <ProposedSolutions />
             <YourContribution />
             <Event />
+            <Schedule />
 
         </div>
     );
