@@ -3,6 +3,8 @@ import NavBar from './NavBar';
 import Home from './Home';
 import Features from './Features';
 import ProblemStatement from './ProblemStatement';
+import ProposedSolutions from './ProposedSolutions';
+import YourContribution from './YourContribution';
 
 function BioLink() {
     return (
@@ -11,6 +13,9 @@ function BioLink() {
             <Home />
             <Features />
             <ProblemStatement />
+            <ProposedSolutions />
+            <YourContribution />
+
         </div>
     );
 }
