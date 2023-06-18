@@ -191,20 +191,3 @@ a:hover {
 
 
 /* PROPOSED SOLUTIONS END */
-
-/* OUR TEAM START */
-
-.our-team-title {
-  font-family: 'Gloria Hallelujah', cursive;
-  position: absolute;
-  color: white;
-  font-size: 4rem;
-  padding-top: 50px;
-  left: 40%;
-}
-
-.portrait-picture {
-  border-radius: 50%;
-}
-
-/* OUR TEAM END */
